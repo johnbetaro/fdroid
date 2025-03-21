@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/johnbetaro/fdroid/main/fdroid/repo",
-    "timestamp": 1742570646000,
+    "timestamp": 1742571771000,
     "categories": {
       "Messaging": {
         "name": {
@@ -54,7 +54,7 @@
           "en-US": "Signal AMOLED"
         },
         "summary": {
-          "en-US": "Replaced the classic dark theme with pure black theme"
+          "en-US": "A fork of Signal private messenger that replaces the classic dark theme with ..."
         },
         "description": {
           "en-US": "A fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme.\n\n<b>Features</b>\n\n- Replaced the classic dark theme with AMOLED black theme.\n- Maybe in the future I will add some more mods.\n"

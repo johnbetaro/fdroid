@@ -14,5 +14,5 @@ IssueTracker: ""
 License: AGPL-3.0
 Name: Signal AMOLED
 SourceCode: https://github.com/johnbetaro/Signal-AMOLED
-Summary: Replaced the classic dark theme with pure black theme
+Summary: A fork of Signal private messenger that replaces the classic dark theme with ...
 WebSite: ""

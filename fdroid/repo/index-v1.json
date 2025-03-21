@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1742570646000,
+    "timestamp": 1742571771000,
     "version": 20002,
     "name": "Signal AMOLED",
     "icon": "icon.png",
@@ -23,7 +23,7 @@
       "license": "AGPL-3.0",
       "name": "Signal AMOLED",
       "sourceCode": "https://github.com/johnbetaro/Signal-AMOLED",
-      "summary": "Replaced the classic dark theme with pure black theme",
+      "summary": "A fork of Signal private messenger that replaces the classic dark theme with ...",
       "added": 1742557096000,
       "packageName": "org.thoughtcrime.securesms",
       "lastUpdated": 1742557102000,
