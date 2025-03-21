@@ -14,23 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/johnbetaro/fdroid/main/fdroid/repo",
-    "timestamp": 1742571771000,
-    "categories": {
-      "Messaging": {
-        "name": {
-          "en-US": "Messaging"
-        }
-      }
-    }
+    "timestamp": 1742590900000
   },
   "packages": {
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1742557096000,
+        "added": 1742590805000,
         "categories": [
           "Messaging"
         ],
-        "lastUpdated": 1742557102000,
+        "lastUpdated": 1742590810000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/johnbetaro/Signal-AMOLED",
         "screenshots": {
@@ -70,7 +63,7 @@
       },
       "versions": {
         "7877361499ead05674bc16ca559bdfcf084d2cba3e8c02354baea08ca84d7424": {
-          "added": 1742557102000,
+          "added": 1742590810000,
           "file": {
             "name": "/Signal_AMOLED_v7.38.4.apk",
             "sha256": "7877361499ead05674bc16ca559bdfcf084d2cba3e8c02354baea08ca84d7424",
@@ -313,7 +306,7 @@
           }
         },
         "464fd25dc2353cdc9793464087008cdaffd77a01b24f2c952bdbf0001cb278c6": {
-          "added": 1742557096000,
+          "added": 1742590805000,
           "file": {
             "name": "/Signal_AMOLED_v7.38.3.apk",
             "sha256": "464fd25dc2353cdc9793464087008cdaffd77a01b24f2c952bdbf0001cb278c6",
