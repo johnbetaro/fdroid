@@ -1,11 +1,11 @@
 {
   "repo": {
-    "timestamp": 1742566344000,
+    "timestamp": 1742567689000,
     "version": 20002,
     "name": "Signal AMOLED",
     "icon": "icon.png",
-    "address": "https://raw.githubusercontent.com/johnbetaro/fdroid-test/main/fdroid/repo",
-    "description": "This is the repo of JohnBetaro which inculdes :\n  - Signal-AMOLED : The Unofficial fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme."
+    "address": "https://raw.githubusercontent.com/johnbetaro/fdroid/main/fdroid/repo",
+    "description": "This is the repo of JohnBetaro which inculdes Signal-AMOLED, the Unofficial fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme."
   },
   "requests": {
     "install": [],
