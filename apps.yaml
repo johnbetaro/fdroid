@@ -1,12 +1,13 @@
 Signal:
   git: https://github.com/johnbetaro/Signal-AMOLED
-  name: "Signal"
+  name: "Signal AMOLED"
   description: |
-    test
+    A fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme.
 
     <b>Features</b>
 
-    - test
+    - Replaced the classic dark theme with AMOLED black theme.
+    - Maybe in the future I will add some more mods.
 
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
