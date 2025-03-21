@@ -1,0 +1,17 @@
+AuthorName: johnbetaro
+Categories:
+    - Messaging
+CurrentVersion: 7.38.4
+CurrentVersionCode: 152700
+Description: |
+    test
+
+    <b>Features</b>
+
+    - test
+IssueTracker: ""
+License: AGPL-3.0
+Name: Signal
+SourceCode: https://github.com/johnbetaro/Signal-AMOLED
+Summary: Replaced the classic dark theme with pure black theme
+WebSite: ""
