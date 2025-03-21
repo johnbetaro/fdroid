@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1742555757000,
+    "timestamp": 1742556568000,
     "version": 20002,
     "name": "Signal AMOLED",
     "icon": "icon.png",
@@ -26,7 +26,7 @@
       "summary": "Replaced the classic dark theme with pure black theme",
       "added": 1742554885000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1742555754000,
+      "lastUpdated": 1742556533000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -40,7 +40,7 @@
   "packages": {
     "org.thoughtcrime.securesms": [
       {
-        "added": 1742555754000,
+        "added": 1742556533000,
         "apkName": "Signal_AMOLED_v7.38.4.apk",
         "hash": "7877361499ead05674bc16ca559bdfcf084d2cba3e8c02354baea08ca84d7424",
         "hashType": "sha256",
@@ -654,7 +654,7 @@
         "versionName": "7.38.4"
       },
       {
-        "added": 1742555748000,
+        "added": 1742556527000,
         "apkName": "Signal_AMOLED_v7.38.3.apk",
         "hash": "464fd25dc2353cdc9793464087008cdaffd77a01b24f2c952bdbf0001cb278c6",
         "hashType": "sha256",

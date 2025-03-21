@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/johnbetaro/fdroid-test/main/fdroid/repo",
-    "timestamp": 1742555757000,
+    "timestamp": 1742556568000,
     "categories": {
       "Messaging": {
         "name": {
@@ -30,7 +30,7 @@
         "categories": [
           "Messaging"
         ],
-        "lastUpdated": 1742555754000,
+        "lastUpdated": 1742556533000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/johnbetaro/Signal-AMOLED",
         "screenshots": {
