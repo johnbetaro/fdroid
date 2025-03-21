@@ -1,0 +1,27 @@
+{
+  "repo": {
+    "timestamp": 1742564616000
+  },
+  "packages": {
+    "org.thoughtcrime.securesms": {
+      "metadata": {
+        "sourceCode": "https://github.com/nekorubu/Signal-You",
+        "authorName": "nekorubu",
+        "name": {
+          "en-US": "Signal You"
+        },
+        "summary": {
+          "en-US": "A Material You fork of a fork of Signal for Android"
+        },
+        "description": {
+          "en-US": "A fork of Signal private messenger that replaces the classic theme with Material You theme for Android 12+ devices and more other features.\n\n<b>Features</b>\n\n- Replaced the classic theme with Material You theme for Android 12+ devices.\n- Encrypted and plaintext (xml) backup / restore.\n- Removed apk expire.\n- Import unencrypted WhatsApp database (this option might be outdated).\n- Choose between passphrase protection and the Android screenlock.\n- Choice for the backup location: for Android 4 - 10, internal or removable storage; for Android 11+ any directory can be chosen.\n- Set the maptype in the place picker.\n- Option to treat view-once media as normal media.\n- Option to ignore remote deletion.\n- Choose between FCM or websocket notification delivery.\n- Option to delete only the media from a message, not the rest of the message. This does not remove the message or media on linked devices.\n- Removed forward limit.\n- Enabled internal preferences. Use at your own risk.\n- Added options to select who can add you to a group.\n"
+        }
+      },
+      "versions": {
+        "1e3fd14255fdfa400fc8207c0360d82931c568985002643ffbdbe934959e1b80": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
