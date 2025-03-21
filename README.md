@@ -20,11 +20,11 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
     Alternatively, you can also scan this QR code:
 
     <p align="center">
-      <img src=".github/qrcode.png?raw=true" alt="F-Droid repo QR code"/>
+      <img src="fdroid/repo/icons/icon.png?raw=true" alt="F-Droid repo QR code"/>
     </p>
 
 3. Open the link in F-Droid. It will ask you to add the repository. Everything should already be filled in correctly, so just press "OK".
-4. You can now install my apps, e.g. start by searching for "Notality" in the F-Droid client.
+4. You can now install my apps, e.g. start by searching for "Signal" in the F-Droid client.
 
 Please note that some apps published here might contain [Anti-Features](https://f-droid.org/en/docs/Anti-Features/). If you can't find an app by searching for it, you can go to settings and enable "Include anti-feature apps".
 
