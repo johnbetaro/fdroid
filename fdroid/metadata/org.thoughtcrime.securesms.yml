@@ -4,14 +4,15 @@ Categories:
 CurrentVersion: 7.38.4
 CurrentVersionCode: 152700
 Description: |
-    test
+    A fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme.
 
     <b>Features</b>
 
-    - test
+    - Replaced the classic dark theme with AMOLED black theme.
+    - Maybe in the future I will add some more mods.
 IssueTracker: ""
 License: AGPL-3.0
-Name: Signal
+Name: Signal AMOLED
 SourceCode: https://github.com/johnbetaro/Signal-AMOLED
 Summary: Replaced the classic dark theme with pure black theme
 WebSite: ""

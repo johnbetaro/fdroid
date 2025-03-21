@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/johnbetaro/fdroid-test/main/fdroid/repo",
-    "timestamp": 1742556568000,
+    "timestamp": 1742557198000,
     "categories": {
       "Messaging": {
         "name": {
@@ -26,11 +26,11 @@
   "packages": {
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1742554885000,
+        "added": 1742557096000,
         "categories": [
           "Messaging"
         ],
-        "lastUpdated": 1742556533000,
+        "lastUpdated": 1742557102000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/johnbetaro/Signal-AMOLED",
         "screenshots": {
@@ -51,21 +51,21 @@
         },
         "authorName": "johnbetaro",
         "name": {
-          "en-US": "Signal"
+          "en-US": "Signal AMOLED"
         },
         "summary": {
           "en-US": "Replaced the classic dark theme with pure black theme"
         },
         "description": {
-          "en-US": "test\n\n<b>Features</b>\n\n- test\n"
+          "en-US": "A fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme.\n\n<b>Features</b>\n\n- Replaced the classic dark theme with AMOLED black theme.\n- Maybe in the future I will add some more mods.\n"
         },
         "preferredSigner": "ff6db32f3101a544f8ef715a24cda2ef536dbdd3aad3826c51ac6ca1c05b2007"
       },
       "versions": {
         "7877361499ead05674bc16ca559bdfcf084d2cba3e8c02354baea08ca84d7424": {
-          "added": 1742554891000,
+          "added": 1742557102000,
           "file": {
-            "name": "/Signal_v7.38.4.apk",
+            "name": "/Signal_AMOLED_v7.38.4.apk",
             "sha256": "7877361499ead05674bc16ca559bdfcf084d2cba3e8c02354baea08ca84d7424",
             "size": 96732882
           },
@@ -306,9 +306,9 @@
           }
         },
         "464fd25dc2353cdc9793464087008cdaffd77a01b24f2c952bdbf0001cb278c6": {
-          "added": 1742554885000,
+          "added": 1742557096000,
           "file": {
-            "name": "/Signal_v7.38.3.apk",
+            "name": "/Signal_AMOLED_v7.38.3.apk",
             "sha256": "464fd25dc2353cdc9793464087008cdaffd77a01b24f2c952bdbf0001cb278c6",
             "size": 96736978
           },
