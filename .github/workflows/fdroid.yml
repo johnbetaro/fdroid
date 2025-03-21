@@ -36,6 +36,9 @@ jobs:
         run: |
           echo "${{ secrets.KEYSTORE_P12 }}" | base64 -d - > fdroid/keystore.p12
           echo "${{ secrets.CONFIG_YML }}" | base64 -d - > fdroid/config.yml
+        
+      - name: Create/Update Metadata
+        run: |
           cd fdroid
           fdroid update -c
           
