@@ -4,7 +4,7 @@
       "en-US": "Signal AMOLED"
     },
     "description": {
-      "en-US": "This is the repo of JohnBetaro which inculdes Signal-AMOLED, the Unofficial fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme."
+      "en-US": "This is the repo of JohnBetaro which inculdes Signal-AMOLED, a fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme."
     },
     "icon": {
       "en-US": {
@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/johnbetaro/fdroid/main/fdroid/repo",
-    "timestamp": 1742568207000,
+    "timestamp": 1742570646000,
     "categories": {
       "Messaging": {
         "name": {
