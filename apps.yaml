@@ -1,4 +1,4 @@
-Signal:
+Signal AMOLED:
   git: https://github.com/johnbetaro/Signal-AMOLED
   name: "Signal AMOLED"
   description: |
