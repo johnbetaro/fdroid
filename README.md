@@ -1,4 +1,5 @@
-# fdroid
+# F-Droid :
+
 This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This allows you to install and update apps very easily.
 
 ### Apps
@@ -9,7 +10,8 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 | <a href="https://github.com/johnbetaro/Signal-AMOLED"><img src="fdroid/repo/icons/" alt="Signal icon" width="36px" height="36px"></a> | [**Signal**](https://github.com/johnbetaro/Signal-AMOLED) | Replaced the classic dark theme with pure black theme | 7.38.4 (152700) |
 <!-- end apps table -->
 
-### How to use
+### How to use :
+
 1. At first, you should [install the F-Droid app](https://f-droid.org/), it's an alternative app store for Android.
 2. Now you can copy the following link, then add this repository to your F-Droid client:
 
