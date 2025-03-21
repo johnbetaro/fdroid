@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/johnbetaro/fdroid-test/main/fdroid/repo",
-    "timestamp": 1742565491000,
+    "timestamp": 1742566344000,
     "categories": {
       "Messaging": {
         "name": {
@@ -58,6 +58,13 @@
         },
         "description": {
           "en-US": "A fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme.\n\n<b>Features</b>\n\n- Replaced the classic dark theme with AMOLED black theme.\n- Maybe in the future I will add some more mods.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/org.thoughtcrime.securesms/en-US/icon_1Jqh239hHEX07r01oVSNXPWXPXkIFCIkg_VPesHIowU=.png",
+            "sha256": "d49aa1db7f611c45f4eebd35a1548d5cf5973d790814222483f54f7ac1c8a305",
+            "size": 139457
+          }
         },
         "preferredSigner": "ff6db32f3101a544f8ef715a24cda2ef536dbdd3aad3826c51ac6ca1c05b2007"
       },

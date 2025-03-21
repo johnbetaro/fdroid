@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1742565491000,
+    "timestamp": 1742566344000,
     "version": 20002,
     "name": "Signal AMOLED",
     "icon": "icon.png",
@@ -29,6 +29,7 @@
       "lastUpdated": 1742557102000,
       "localized": {
         "en-US": {
+          "icon": "icon_1Jqh239hHEX07r01oVSNXPWXPXkIFCIkg_VPesHIowU=.png",
           "phoneScreenshots": [
             "1.png",
             "2.png"
