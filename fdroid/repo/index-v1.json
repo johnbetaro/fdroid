@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1742590900000,
+    "timestamp": 1742621791000,
     "version": 20002,
     "name": "Signal AMOLED",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "Signal AMOLED",
       "sourceCode": "https://github.com/johnbetaro/Signal-AMOLED",
       "summary": "A fork of Signal private messenger that replaces the classic dark theme with ...",
-      "added": 1742590805000,
+      "added": 1742621695000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1742590810000,
+      "lastUpdated": 1742621700000,
       "localized": {
         "en-US": {
           "icon": "icon_1Jqh239hHEX07r01oVSNXPWXPXkIFCIkg_VPesHIowU=.png",
@@ -41,7 +41,7 @@
   "packages": {
     "org.thoughtcrime.securesms": [
       {
-        "added": 1742590810000,
+        "added": 1742621700000,
         "apkName": "Signal_AMOLED_v7.38.4.apk",
         "hash": "7877361499ead05674bc16ca559bdfcf084d2cba3e8c02354baea08ca84d7424",
         "hashType": "sha256",
@@ -348,7 +348,7 @@
         "versionName": "7.38.4"
       },
       {
-        "added": 1742590805000,
+        "added": 1742621695000,
         "apkName": "Signal_AMOLED_v7.38.3.apk",
         "hash": "464fd25dc2353cdc9793464087008cdaffd77a01b24f2c952bdbf0001cb278c6",
         "hashType": "sha256",
