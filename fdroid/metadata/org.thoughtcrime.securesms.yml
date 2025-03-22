@@ -1,8 +1,8 @@
 AuthorName: johnbetaro
 Categories:
     - Messaging
-CurrentVersion: 7.38.4
-CurrentVersionCode: 152700
+CurrentVersion: 7.38.5
+CurrentVersionCode: 152800
 Description: |
     A fork of Signal private messenger that replaces the classic dark theme with AMOLED black theme.
 

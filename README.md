@@ -7,7 +7,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/johnbetaro/Signal-AMOLED"><img src="fdroid/repo/icons/" alt="Signal AMOLED icon" width="36px" height="36px"></a> | [**Signal AMOLED**](https://github.com/johnbetaro/Signal-AMOLED) | A fork of Signal private messenger that replaces the classic dark theme with ... | 7.38.4 (152700) |
+| <a href="https://github.com/johnbetaro/Signal-AMOLED"><img src="fdroid/repo/icons/" alt="Signal AMOLED icon" width="36px" height="36px"></a> | [**Signal AMOLED**](https://github.com/johnbetaro/Signal-AMOLED) | A fork of Signal private messenger that replaces the classic dark theme with ... | 7.38.5 (152800) |
 <!-- end apps table -->
 
 ### How to use :

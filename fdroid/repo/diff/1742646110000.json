@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1742646184000
+  },
+  "packages": {
+    "org.thoughtcrime.securesms": {
+      "versions": {
+        "54af28fc8764c8f145e8d84e7085e6c977a91086e8755c8c7c55421391201937": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
